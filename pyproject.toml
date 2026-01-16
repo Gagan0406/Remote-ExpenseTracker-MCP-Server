@@ -7,4 +7,10 @@ requires-python = ">=3.13"
 dependencies = [
     "aiosqlite>=0.22.1",
     "fastmcp>=2.14.3",
+    "langchain>=1.2.4",
+    "langchain-mcp-adapters>=0.2.1",
+    "langchain-openai>=1.1.7",
+    "manim>=0.19.1",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.53.0",
 ]
